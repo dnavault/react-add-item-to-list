@@ -1,5 +1,8 @@
 # react-add-item-to-list
 
+Site hooks
+https://www.pluralsight.com/guides/fetching-data-updating-state-hooks
+
 [![Build Status](https://travis-ci.org/the-road-to-learn-react/react-add-item-to-list.svg?branch=master)](https://travis-ci.org/the-road-to-learn-react/react-add-item-to-list) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/the-road-to-learn-react/react-add-item-to-list.svg)](https://greenkeeper.io/)
 
 How to add an item to a list in React. [Read more about it.](https://www.robinwieruch.de/react-add-item-to-list)
